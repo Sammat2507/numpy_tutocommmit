@@ -185,3 +185,4 @@ def write_release(options):
     """
     rdir = options.installers.releasedir
     write_release_task(options, os.path.join(rdir, 'README'))
+print('SAMUEL')
